@@ -1,4 +1,4 @@
-### Oii! Obrigada por me visitar! <img align="right" alt="Dali-gif" height="125" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703373266038816769/1013990539718311987/Design_sem_nome.gif">
+### Oii! Obrigada por me visitar! <img align="right" alt="Dali-gif" width="145px" height="145" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703373266038816769/1013990539718311987/Design_sem_nome.gif">
 
 - 🔭 Trabalhando com Back-end
 - 🌱 Aprendendo C# e .NET
@@ -8,8 +8,8 @@
 ##
 <div align="center">
   <a href="https://github.com/DalianeLeme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DalianeLeme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalianeLeme&layout=compact&langs_count=7&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DalianeLeme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalianeLeme&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dali-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
