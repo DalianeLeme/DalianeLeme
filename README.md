@@ -1,7 +1,9 @@
-### Oii!
+### Oii! Obrigada por me visitar! <img align="right" alt="Dali-gif" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703373266038816769/1013990539718311987/Design_sem_nome.gif">
+
 - 🔭 Trabalhando com Back-end
 - 🌱 Aprendendo C# e .NET
 - 😄 Pronomes: ela/dela
+
 
 ##
 <div align="center">
@@ -19,7 +21,8 @@
   <img align="center" alt="Dali-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">        
   <img align="center" alt="Dali-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Dali-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</div>
+
+  </div>
   
   ##
 
