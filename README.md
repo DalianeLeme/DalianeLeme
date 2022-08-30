@@ -1,4 +1,4 @@
-### Oii! Obrigada por me visitar! <img align="right" alt="Dali-gif" height="140" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703373266038816769/1013990539718311987/Design_sem_nome.gif">
+### Oii! Obrigada por me visitar! <img align="right" alt="Dali-gif" height="125" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703373266038816769/1013990539718311987/Design_sem_nome.gif">
 
 - 🔭 Trabalhando com Back-end
 - 🌱 Aprendendo C# e .NET
