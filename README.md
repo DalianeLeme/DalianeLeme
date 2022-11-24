@@ -32,5 +32,11 @@
   <a href="https://www.linkedin.com/in/daliane-leme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/DalianeLeme/DalianeLeme/blob/output/github-contribution-grid-snake.svg)
+  
+  <div align="center">
+  <br><p align="centre"><b>Quantidade de visitas</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DalianeLeme}/count.svg" /></p> 
+  <br>
+</div>
  
 </div>
