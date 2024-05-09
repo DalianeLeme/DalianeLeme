@@ -1,6 +1,6 @@
 # Oii! Bem vindo(a)!
 
-- 🔭 Trabalhando atualmente como desenvolvedora Back-end em .NET desde 2022
+- 🔭 Trabalhando atualmente como desenvolvedora Back-end em .NET
 - 🎓 Formada em engenharia da computação.
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DalianeLeme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
