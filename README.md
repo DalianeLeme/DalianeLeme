@@ -1,40 +1,40 @@
-### Oii! Obrigada por me visitar! <img align="right" alt="Dali-gif" width="145px" height="145" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/703373266038816769/1013990539718311987/Design_sem_nome.gif">
+# Oii! Bem vindo(a)!
 
-- 🔭 Trabalhando com Back-end
-- 🌱 Aprendendo .NET
-- 😄 Pronomes: ela/dela
+- 🔭 Trabalhando atualmente como desenvolvedora Back-end em .NET desde 2022
+- 🎓 Formada em engenharia da computação.
 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DalianeLeme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-##
-<div align="center">
-  <a href="https://github.com/DalianeLeme">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=DalianeLeme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalianeLeme&layout=compact&langs_count=7&theme=radical"/>
+## Habilidades
+
+<div>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalianeLeme&layout=compact&langs_count=7&theme=radical"/>
+
 </div>
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dali-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dali-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Dali-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="center" alt="Dali-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dali-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dali-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dali-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">        
-  <img align="center" alt="Dali-Visual" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Dali-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-  </div>
   
-  ##
+<img align="center" alt="Dali-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img align="center" alt="Dali-DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black">
+<img align="center" alt="Dali-Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+<img align="center" alt="Dali-SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+<img align="center" alt="Dali-HTML" src="https://img.shields.io/badge/HTML-ff6103?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="Dali-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Dali-Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img align="center" alt="Dali-Visual" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+<img align="center" alt="Dali-VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="center" alt="Dali-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img align="center" alt="Dali-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
-<div> 
-  <a href="mailto:daliane.lemee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="mailto:daliane.leme@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/daliane-leme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <div align="center">
-  <br><p align="centre"><b>Quantidade de visitas</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{DalianeLeme}/count.svg" /></p> 
-  <br>
 </div>
- 
+
+## Bora conversar!
+
+<div>
+
+<a href="https://www.linkedin.com/in/daliane-leme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:daliane.lemee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:daliane.leme@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+
 </div>
