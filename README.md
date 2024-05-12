@@ -1,17 +1,16 @@
 # Oii! Bem vindo(a)!
 
+
 - 🔭 Trabalhando atualmente como desenvolvedora Back-end em .NET
 - 🎓 Formada em engenharia da computação.
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DalianeLeme&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img align="right" width="30%" alt="Dali-Gif" src="https://cdn.discordapp.com/attachments/1206423657648361555/1239342713447649303/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif?ex=66429358&is=664141d8&hm=24f8590e035d025bccb5c4b54b2f77394124aff162b2c9a12b1cd8f839997b82&">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=DalianeLeme&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 
 ## Habilidades
 
-<div>
-
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalianeLeme&layout=compact&langs_count=7&theme=radical"/>
-
-</div>
 
 <div style="display: inline_block"><br>
   
@@ -32,9 +31,12 @@
 ## Bora conversar!
 
 <div>
+<img align="right" width="30%" alt="Dali-Gif" src="https://cdn.discordapp.com/attachments/1206423657648361555/1239342136621666404/240885304-19b4ef1d-2035-4e6f-8484-8bd79d604dc9.gif?ex=664292cf&is=6641414f&hm=033749062adfec5f8414710d2b4f54ed41a6a0dc2e9f74bbbcd12831d91ab685&">
 
 <a href="https://www.linkedin.com/in/daliane-leme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <a href="mailto:daliane.lemee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="mailto:daliane.leme@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 </div>
