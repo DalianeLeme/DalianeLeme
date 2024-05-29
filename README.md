@@ -31,7 +31,7 @@
 ## Bora conversar!
 
 <div>
-<img align="right" width="30%" alt="Dali-Gif" src="https://cdn.discordapp.com/attachments/1206423657648361555/1239342136621666404/240885304-19b4ef1d-2035-4e6f-8484-8bd79d604dc9.gif?ex=664292cf&is=6641414f&hm=033749062adfec5f8414710d2b4f54ed41a6a0dc2e9f74bbbcd12831d91ab685&">
+<img align="right" width="30%" alt="Dali-Gif" src="https://cdn.discordapp.com/attachments/1206423657648361555/1239342136621666404/240885304-19b4ef1d-2035-4e6f-8484-8bd79d604dc9.gif?ex=6657aacf&is=6656594f&hm=1d1ec46bfcb46fd818d3142fcb134c65bc02cfa78136165610f4e11e6beecdad&">
 
 <a href="https://www.linkedin.com/in/daliane-leme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
