@@ -3,6 +3,7 @@
 
 - 🔭 Trabalhando atualmente como desenvolvedora Back-end em .NET
 - 🎓 Formada em engenharia da computação.
+- :computer: Cursando Pós Graduação em Arquitetura de sistemas .NET com Azure
 
 <img align="right" width="30%" alt="Dali-Gif" src="https://cdn.discordapp.com/attachments/1206423657648361555/1239342713447649303/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif?ex=66429358&is=664141d8&hm=24f8590e035d025bccb5c4b54b2f77394124aff162b2c9a12b1cd8f839997b82&">
 
@@ -26,6 +27,7 @@
 <img align="center" alt="Dali-Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img align="center" alt="Dali-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="Dali-rabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
+<img align="center" alt="Dali-Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 
 </div>
 
