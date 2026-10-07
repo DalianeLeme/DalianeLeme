@@ -14,7 +14,9 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DalianeLeme&layout=compact&langs_count=7&theme=radical"/>
 
 <div style="display: inline_block"><br>
-  
+
+<img align="center" alt="Dali-Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="Dali-Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
 <img align="center" alt="Dali-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img align="center" alt="Dali-DotNet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=black">
 <img align="center" alt="Dali-Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
@@ -28,6 +30,7 @@
 <img align="center" alt="Dali-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img align="center" alt="Dali-rabbitMQ" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white">
 <img align="center" alt="Dali-Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img align="center" alt="Dali-IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
 </div>
 
